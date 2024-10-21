@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\realTest1\\realTest1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\realTest1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\realTest1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\realTest1\\realTest1\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\realTest1\\realTest1\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\realTest1\\realTest1\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\realTest1\\realTest1\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.realTest1.props",
+      "PackagePath": "build\\realTest1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.realTest1.props",
+      "PackagePath": "buildMultiTargeting\\realTest1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.realTest1.props",
+      "PackagePath": "buildTransitive\\realTest1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.realTest1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
