@@ -14,14 +14,15 @@
  <h1>paste in program.cs</h1>
  <h4>var DbString = builder.Configuration.GetConnectionString("DbString");
 </h4>
-<h4>  builder.Services.AddDbContext<ThuchanhContext>(options =>
-options.UseMySQL(DbString));</h4>
-<h4>builder.Services.AddScoped<IEmployeeRepo, EmployeeRepo>();</h4>
+ builder.Services.AddDbContext<<ad>ThuchanhContext>(options =>
+options.UseMySQL(DbString));
+    <br>
+builder.Services.AddScoped<<hu>IEmployeeRepo, EmployeeRepo>();
 <h2>create repo folder</h2>
 <h3>create IEmployeeRepo class</h3>
 <h3>paste in IEmployeeRepo</h3>
-<h4>Task<IEnumerable<Employee>> GetAllStaffs();</h4>
-<h4>Task<Employee> GetStaffById(int id);</h4>
+<h4>Task<<asa>IEnumerable<Employee>> GetAllStaffs();</h4>
+<h4>Task<<aa>Employee> GetStaffById(int id);</h4>
 <h3>create EmployeeRepo class</h3>
 <h3>create EmployeeDetailBase.cs class</h3>
 <h3>create EmployeeDetail.razor</h3>
